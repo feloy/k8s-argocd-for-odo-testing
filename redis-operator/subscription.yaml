@@ -8,5 +8,3 @@ spec:
   name: redis-operator
   source: operatorhubio-catalog
   sourceNamespace: olm
-  startingCSV: redis-operator.v0.8.0
-  installPlanApproval: Manual

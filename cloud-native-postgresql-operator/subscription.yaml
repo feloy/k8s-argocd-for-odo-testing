@@ -1,4 +1,3 @@
-
 apiVersion: operators.coreos.com/v1alpha1
 kind: Subscription
 metadata:
@@ -9,4 +8,3 @@ spec:
   name: cloud-native-postgresql
   source: operatorhubio-catalog
   sourceNamespace: olm
-  installPlanApproval: Automatic
